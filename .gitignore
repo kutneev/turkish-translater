@@ -1,0 +1,17 @@
+# виртуальные окружения
+venv/
+.env
+
+# python кэш/служебные
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# логи и прочее
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
